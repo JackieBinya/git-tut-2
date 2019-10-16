@@ -3,3 +3,8 @@ My intrests include:
 - Cooking
 - Fitness
 - Travelling
+Programming languages:
+- HTML
+- CSS
+- Javascript
+- C++
